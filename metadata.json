@@ -1,0 +1,5 @@
+{
+  "name": "Enfermera App",
+  "description": "Una aplicación web para encontrar información y artículos sobre temas de salud, resumidos por la IA de Gemini. Simplemente escribe un tema de salud y la IA buscará en la web para ofrecerte un resumen y enlaces a fuentes confiables.",
+  "requestFramePermissions": []
+}
